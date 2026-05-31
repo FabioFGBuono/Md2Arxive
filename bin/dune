@@ -1,0 +1,4 @@
+(executable
+ (name main)
+ (public_name md2arxiv)
+ (libraries md2arxiv))

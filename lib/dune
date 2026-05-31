@@ -1,0 +1,3 @@
+(library
+ (name md2arxiv)
+ (libraries unix))
