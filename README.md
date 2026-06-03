@@ -5,7 +5,7 @@
 [![Status: alpha](https://img.shields.io/badge/status-alpha-orange.svg)]()
 [![Theoretical Computer Science](https://img.shields.io/badge/Theoretical_Computer_Science-%E2%9A%9B%EF%B8%8F-purple)](https://en.wikipedia.org/wiki/Theoretical_computer_science)
 [![Automata Theory](https://img.shields.io/badge/Automata_Theory-FA%2C_NFA%2C_PDA-orange)](https://en.wikipedia.org/wiki/Automata_theory)
-
+[![Formal Semantics](https://img.shields.io/badge/Formal_Semantics-%E2%86%92%E2%87%92-darkgreen)](https://en.wikipedia.org/wiki/Formal_semantics_(computer_science))
 
 
 > **⚠️ Alpha version.** Software in an early stage of development.
